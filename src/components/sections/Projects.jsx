@@ -17,11 +17,11 @@ export const Projects = () => {
       description:
         '"Tara na sa Quezon," an interactive web-based kiosk designed to boost agri-tourism in Quezon province. The kiosk offers personalized navigation to agricultural sites, providing visitors with interactive maps, directions tailored to their mode of transport (commuter or private vehicle), multimedia content, and essential site information. It also includes an admin section for authorized users to update content, ensuring accuracy. By simplifying the discovery of local farms and promoting sustainable tourism, "Tara na sa Quezon" aims to enhance the agri-tourism experience, support farmers, and benefit local communities.',
       images: [
-        "Villanueva-Portfolio/images/thesis1.png",
-        "Villanueva-Portfolio/images/thesis2.png",
-        "Villanueva-Portfolio/images/thesis3.png",
-        "Villanueva-Portfolio/images/thesis4.png",
-        "Villanueva-Portfolio/images/thesis5.png"
+        "/Villanueva-Portfolio/images/thesis1.png",
+        "/Villanueva-Portfolio/images/thesis2.png",
+        "/Villanueva-Portfolio/images/thesis3.png",
+        "/Villanueva-Portfolio/images/thesis4.png",
+        "/Villanueva-Portfolio/images/thesis5.png"
       ],
     },
     {
@@ -29,11 +29,11 @@ export const Projects = () => {
       description:
         "Developed a professional e-commerce platform for a furniture business, integrating an intuitive UI, product catalog, and secure transactions.",
       images: [
-        "Villanueva-Portfolio/images/legrande1.png",
-        "Villanueva-Portfolio/images/legrande2.png",
-        "Villanueva-Portfolio/images/legrande3.png",
-        "Villanueva-Portfolio/images/legrande4.png",
-        "Villanueva-Portfolio/images/legrande5.png"
+        "/Villanueva-Portfolio/images/legrande1.png",
+        "/Villanueva-Portfolio/images/legrande2.png",
+        "/Villanueva-Portfolio/images/legrande3.png",
+        "/Villanueva-Portfolio/images/legrande4.png",
+        "/Villanueva-Portfolio/images/legrande5.png"
       ],
     },
     {
@@ -41,11 +41,11 @@ export const Projects = () => {
       description:
         "A skill-based job matching system that generates personalized job recommendations based on user-entered skills. It provides statistical compatibility analysis, helping users identify the most suitable career paths.",
       images: [
-        "Villanueva-Portfolio/images/jobspark1.png",
-        "Villanueva-Portfolio/images/jobspark2.png",
-        "Villanueva-Portfolio/images/jobspark3.png",
-        "Villanueva-Portfolio/images/jobspark4.png",
-        "Villanueva-Portfolio/images/jobspark5.png"
+        "/Villanueva-Portfolio/images/jobspark1.png",
+        "/Villanueva-Portfolio/images/jobspark2.png",
+        "/Villanueva-Portfolio/images/jobspark3.png",
+        "/Villanueva-Portfolio/images/jobspark4.png",
+        "/Villanueva-Portfolio/images/jobspark5.png"
       ],
     },
     {
@@ -53,12 +53,12 @@ export const Projects = () => {
       description:
         "A dynamic quiz application designed for customizable quizzes, tracking performance, and interactive learning experiences.",
       images: [
-        "Villanueva-Portfolio/images/quiz1.png",
-        "Villanueva-Portfolio/images/quiz2.png",
-        "Villanueva-Portfolio/images/quiz3.png",
-        "Villanueva-Portfolio/images/quiz4.png",
-        "Villanueva-Portfolio/images/quiz5.png",
-        "Villanueva-Portfolio/images/quiz6.png"
+        "/Villanueva-Portfolio/images/quiz1.png",
+        "/Villanueva-Portfolio/images/quiz2.png",
+        "/Villanueva-Portfolio/images/quiz3.png",
+        "/Villanueva-Portfolio/images/quiz4.png",
+        "/Villanueva-Portfolio/images/quiz5.png",
+        "/Villanueva-Portfolio/images/quiz6.png"
       ],
     },
     {
@@ -66,10 +66,10 @@ export const Projects = () => {
       description:
         "Designed and implemented a secure enterprise network for a modern tech office, ensuring efficient connectivity and access control across multiple departments. Configured routers, VLANs, and DHCP pools for structured traffic segmentation and seamless dynamic IP allocation. Enabled OSPF routing protocols to optimize network communication and performance. Implemented Access Control Lists (ACLs) to restrict communication between specific departments, enhancing security, data integrity, and operational efficiency.",
       images: [
-        "Villanueva-Portfolio/images/techinnovator1.png",
-        "Villanueva-Portfolio/images/techinnovator2.png",
-        "Villanueva-Portfolio/images/techinnovator3.png",
-        "Villanueva-Portfolio/images/techinnovator4.png"
+        "/Villanueva-Portfolio/images/techinnovator1.png",
+        "/Villanueva-Portfolio/images/techinnovator2.png",
+        "/Villanueva-Portfolio/images/techinnovator3.png",
+        "/Villanueva-Portfolio/images/techinnovator4.png"
       ],
     },
     {
@@ -77,11 +77,11 @@ export const Projects = () => {
       description:
         "A Bluetooth-controlled crane prototype that simulates construction machinery. It features LED indicators, wireless control, and movable parts—showcasing basic embedded systems and motor control.",
       images: [
-        "Villanueva-Portfolio/images/rc1.jpg",
-        "Villanueva-Portfolio/images/rc2.jpg",
-        "Villanueva-Portfolio/images/rc3.jpg",
-        "Villanueva-Portfolio/images/rc4.jpg",
-        "Villanueva-Portfolio/images/rc5.jpg"
+        "/Villanueva-Portfolio/images/rc1.jpg",
+        "/Villanueva-Portfolio/images/rc2.jpg",
+        "/Villanueva-Portfolio/images/rc3.jpg",
+        "/Villanueva-Portfolio/images/rc4.jpg",
+        "/Villanueva-Portfolio/images/rc5.jpg"
       ],
     }
   ];
