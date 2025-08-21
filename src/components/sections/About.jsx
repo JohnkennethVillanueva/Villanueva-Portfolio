@@ -1,8 +1,8 @@
 import { RevealOnScroll } from "./RevealOnScroll";
 
 export const About = () => {
-    const frontendSkills = ["React", "TypeScript", "TailwindCSS"];
-    const backendSkills = ["Node.js", "Python", "AWS"];
+    const frontendSkills = ["Web Development", "Networking", "Workplace Safety Monitoring", "Data Encoding", "Organizational & Documentation Skills "];
+    const backendSkills = ["Attention to Detail", "Time Management ", "Problem-Solving & Troubleshooting", "Adaptability & Continuous Learning"];
 
     return (
         <section
@@ -17,13 +17,13 @@ export const About = () => {
 
                 <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
                     <p className="text-gray-300 mb-6">
-                        nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                        List of Technical & Soft Skills
                     </p>
 
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                         {/* Frontend Skills */}
                         <div className="rounded-xl p-6 hover:-translate-y-1 transition-all">
-                            <h3 className="text-xl font-bold mb-4">Frontend</h3>
+                            <h3 className="text-xl font-bold mb-4">Technical Skills</h3>
                             <div className="flex flex-wrap gap-2">
                                 {frontendSkills.map((tech, key) => (
                                     <span
@@ -38,7 +38,7 @@ export const About = () => {
 
                         {/* Backend Skills */}
                         <div className="rounded-xl p-6 hover:-translate-y-1 transition-all">
-                            <h3 className="text-xl font-bold mb-4">Backend</h3>
+                            <h3 className="text-xl font-bold mb-4">Soft Skills</h3>
                             <div className="flex flex-wrap gap-2">
                                 {backendSkills.map((tech, key) => (
                                     <span
@@ -57,12 +57,25 @@ export const About = () => {
                         <h3 className="text-xl font-bold mb-4">
                             Education
                         </h3>
+                        <ul className="list-disc list-inside text-gray-300 space-y-2">                            
+                                <strong>Bachelor of Science in Computer Engineering</strong> <br /> Southern Luzon State University (2021-2025)
+                        </ul>
+
+                        <h3 className="text-xl font-bold mb-4">
+                            <br />Relevant Coursework
+                        </h3>
                         <ul className="list-disc list-inside text-gray-300 space-y-2">
                             <li>
-                                <strong>B.S in Computer Engineering</strong> XYZ University 2021-2025
+                                <strong>TECH-ENHANCED AGRI-TOURISM: “TARA NA SA QUEZON” AN INTERACTIVE TERMINAL FOR PERSONALIZED AGRI-TOURISM NAVIGATION (Thesis)</strong>
                             </li>
                             <li>
-                                <strong>Relevnat Coursework: Web development, Embedded System</strong> XYZ University 2021-2025
+                                <strong>PCB Layout/Breadboarding</strong>
+                            </li>
+                            <li>
+                                <strong>Web development</strong>
+                            </li>
+                            <li>
+                                <strong>Embedded System</strong>
                             </li>
                         </ul>
                     </div>
@@ -73,14 +86,25 @@ export const About = () => {
                         </h3>
                         <div className="space-y-4 text-gray-300">
                             <div>
-                                <h4 className="font-semibold">IT Support at QUEZELCO1 (2024-2025)</h4>
-                                <p>nnnnnnnnnnnnnnnnnn
-                                    nnnnnnnnnnnnnnnnnnnnn</p>
-                            </div>
-                            <div>
-                                <h4 className="font-semibold">Network Engineer at QUEZELCO1 (2024-2025)</h4>
-                                <p>nnnnnnnnnnnnnnnnnnnn
-                                    nnnnnnnnnnnnnnnnnnn</p>
+                                <h4 className="font-semibold"><strong>IT Support / Technical Intern</strong><br />Quezon 1 electric Cooperative, Inc. (QUEZELCO 1) CORPLAN IT Division </h4><br />
+                                <li>
+                                    Setting up office PCs and workstations
+                                </li>
+                                <li>
+                                    Configuring IP address of a computer
+                                </li>
+                                <li>
+                                    Troubleshooted UTP cable and printer connections
+                                </li>
+                                <li>
+                                   Performed database encoding 
+                                </li>
+                                <li>
+                                    Assembled and cleaned CPUs
+                                </li>
+                                <li>
+                                    Familiarized with WordPress: added content/events to the company website
+                                </li>
                             </div>
                         </div>
                     </div>
