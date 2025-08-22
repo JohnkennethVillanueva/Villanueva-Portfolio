@@ -8,8 +8,8 @@ export const Home = () => {
                 Hi, I'm Kenneth
             </h1>
             <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto">
-                Im a Computer Engineering graduate passionate about networking, technical support, and web development. 
-                I enjoy solving technical problems and creating practical solutions that help teams and organizations.
+                A Computer Engineer passionate about networking, technical support, and web development. 
+                I enjoy solving problems and building practical solutions that support teams and organizations.
             </p>
             <div className="flex justify-center space-x-4">
                 <a 
