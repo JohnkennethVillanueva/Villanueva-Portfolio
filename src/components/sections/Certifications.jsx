@@ -101,7 +101,7 @@ Cert. ID: 1PTDS-BOSH-SO1-B25085-042`,
                 <img
                   src={training.image}
                   alt={training.title}
-                  className="w-full md:w-1/3 rounded-lg border border-white/10"
+                  className="w-full md:w-1/3 max-h-80 object-contain rounded-lg border border-white/10"
                 />
               </div>
             ))}

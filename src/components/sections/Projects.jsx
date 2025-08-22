@@ -13,7 +13,7 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "TECH-ENHANCED AGRI-TOURISM:“TARA NA SA QUEZON” AN INTERACTIVE TERMINAL FOR PERSONALIZED AGRI-TOURISM NAVIGATION",
+      title: "INTERACTIVE TERMINAL FOR PERSONALIZED AGRI-TOURISM NAVIGATION",
       description:
         '"Tara na sa Quezon," an interactive web-based kiosk designed to boost agri-tourism in Quezon province. The kiosk offers personalized navigation to agricultural sites, providing visitors with interactive maps, directions tailored to their mode of transport (commuter or private vehicle), multimedia content, and essential site information. It also includes an admin section for authorized users to update content, ensuring accuracy. By simplifying the discovery of local farms and promoting sustainable tourism, "Tara na sa Quezon" aims to enhance the agri-tourism experience, support farmers, and benefit local communities.',
       images: [
@@ -27,7 +27,7 @@ export const Projects = () => {
     {
       title: "LeGrande Furniture (Website)",
       description:
-        "Developed a professional e-commerce platform for a furniture business, integrating an intuitive UI, product catalog, and secure transactions.",
+        "Designed and developed a full-featured e-commerce platform tailored for a furniture business. The website includes a sleek, responsive design optimized for both desktop and mobile users, ensuring a smooth browsing and purchasing experience. Integrated a structured product catalog with categories, search, and filtering functionality for quick product discovery. Implemented secure checkout and payment handling. Focused on delivering a visually appealing interface that reflects the brand’s identity while ensuring performance, scalability, and user trust through modern web standards.",
       images: [
         "/Villanueva-Portfolio/images/legrande1.png",
         "/Villanueva-Portfolio/images/legrande2.png",
@@ -51,7 +51,7 @@ export const Projects = () => {
     {
       title: "Quiz Forge (application)",
       description:
-        "A dynamic quiz application designed for customizable quizzes, tracking performance, and interactive learning experiences.",
+        "Quiz Forge is an interactive quiz platform built to make learning engaging. Users can create quizzes based on their chosen topics. Quiz Forge transforms traditional assessments into a personalized and effective way of learning.",
       images: [
         "/Villanueva-Portfolio/images/quiz1.png",
         "/Villanueva-Portfolio/images/quiz2.png",
@@ -75,7 +75,7 @@ export const Projects = () => {
     {
       title: "Bluetooth-Controlled RC Prototype (Embedded SYSTEM)",
       description:
-        "A Bluetooth-controlled crane prototype that simulates construction machinery. It features LED indicators, wireless control, and movable parts—showcasing basic embedded systems and motor control.",
+        "A functional RC prototype simulated through Bluetooth wireless control. The system is powered by a microcontroller, enabling communication between a mobile device and the hardware. It features multiple DC motors for movement, control of the crane arm, and LED indicators. The design integrates concepts of motor drivers and wireless signal processing, showcasing the fundamentals of embedded systems. The project emphasizes the potential of remote-controlled devices in practical applications such as automation, robotics, and smart machinery.",
       images: [
         "/Villanueva-Portfolio/images/rc1.jpg",
         "/Villanueva-Portfolio/images/rc2.jpg",
